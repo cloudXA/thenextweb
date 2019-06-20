@@ -13,6 +13,7 @@
 后期除了添加响应式布局外，我将加强react css框架的运用，当然对于react我将重点学习JavaScript
 
 
+index.html呈现的视图
 ![alt text](https://github.com/cloudXA/thenextweb/blob/master/media/them.png)
 
 
